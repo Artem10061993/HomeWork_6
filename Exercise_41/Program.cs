@@ -19,6 +19,6 @@ for(int i = 0; i<m; i++)
         result++;
     }
 }
-PrintArray(array);
+PrintArray array);
 Console.WriteLine();
-Console.WriteLine(result);
+Console.WriteLine("Чисел больше 0 = "+result);
